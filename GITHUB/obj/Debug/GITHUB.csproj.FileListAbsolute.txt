@@ -1,1 +1,2 @@
 c:\users\baixiao\documents\visual studio 2015\Projects\GITHUB\GITHUB\bin\Debug\GITHUB.exe.config
+C:\Users\baixiao\Source\Repos\GITHUB\GITHUB\bin\Debug\GITHUB.exe.config
